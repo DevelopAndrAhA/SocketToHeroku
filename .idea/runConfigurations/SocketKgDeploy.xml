@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SocketKgDeploy" type="heroku-deploy" factoryName="Heroku Deployment" server-name="Heroku">
+    <deployment type="module" name="HerokuSocket">
+      <settings>
+        <option name="host" value="" />
+      </settings>
+    </deployment>
+    <RunnerSettings RunnerId="DeployToServer" />
+    <ConfigurationWrapper RunnerId="DeployToServer" />
+    <method>
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="Main" run_configuration_type="Application" />
+    </method>
+  </configuration>
+</component>
